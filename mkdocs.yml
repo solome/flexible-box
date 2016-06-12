@@ -1,1 +1,11 @@
 site_name: Flexible Box
+theme_dir: cinder
+copyright: Copyright © <a href="/">掬一捧</a>, all rights reserved. 
+pages:
+- 'Home': index.md
+- 'CSS Flexible Box':
+  - 'Introduction': flex-introduction.md
+  - 'Flex Containers': flex-containers.md
+  - 'Flex Items': flex-items.md
+  - 'Examples': flex-examples.md
+- 'React Native Layout System': rn-layout-system.md
