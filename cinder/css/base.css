@@ -9,6 +9,9 @@ h1[id]:before, h2[id]:before, h3[id]:before, h4[id]:before, h5[id]:before, h6[id
     height: 75px;
 }
 
+code {
+  color: #d73d32;
+}
 ul.nav li.first-level {
     font-weight: bold;
 }
